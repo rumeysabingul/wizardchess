@@ -1,4 +1,4 @@
-# wizardchess (graduation project)
+# wizardchess
 
 Engelli bireyler için spor faaliyetinden bahsedildiğinde ilk akla gelen, satranç olmaktadır.Bunun nedeni satrancın öncelikle bir beyin 
 sporu olması ve sabit bir şekilde bir satranç tahtası başında oynanmasıdır.Bu husus engellinin spor yaparken ortaya çıkarabileceği 
